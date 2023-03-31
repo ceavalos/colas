@@ -1,0 +1,5 @@
+ Versión    Programador      Fecha       Descripción
+---------  ------------- -------------  -----------------------------------
+   1.0        ceavalos      07/07/2023    creacion proyecto
+
+   
