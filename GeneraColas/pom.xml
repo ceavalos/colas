@@ -3,11 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>sv.com.freund</groupId>
-    <artifactId>rsMHFAnulacionesDTE</artifactId>
+    <artifactId>rsMHFFactuacionElectronica</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
 
-    <name>rsMHFAnulacionesDTE</name>
+    <name>rsMHFFactuacionElectronica</name>
     
     <parent>
         <groupId>org.springframework.boot</groupId>
@@ -148,13 +148,12 @@
         <dependency>
             <groupId>wls</groupId>
             <artifactId>wlsclient</artifactId>
-            <version>1.0</version>
-        </dependency>   
-             
+            <version>1.0</version>           
+        </dependency>           
     </dependencies>
 
     <build>
-        <finalName>rsMHFFreundEnvioDTE</finalName>
+        <finalName>rsMHFFactuacionElectronica</finalName>
         <plugins>  
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
@@ -185,7 +184,7 @@
                     <failOnMissingWebXml>false</failOnMissingWebXml>
                     <archive>
                         <manifestEntries>
-                            <WebLogic-Application-Version>20221207</WebLogic-Application-Version>
+                            <WebLogic-Application-Version>20230703</WebLogic-Application-Version>
                         </manifestEntries>
                     </archive>
                     <webResources>

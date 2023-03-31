@@ -1,5 +1,6 @@
  Versión    Programador      Fecha       Descripción
 ---------  ------------- -------------  -----------------------------------
-   1.0        ceavalos      07/07/2023    creacion proyecto
-
+   1.0        angell      26/10/2022    Instalacion en produccion
+   1.01       angell      31/10/2022    Correccion de carga de equipos
+   1.02       angell      06/12/2022    Log de errores y reintento de envios
    
